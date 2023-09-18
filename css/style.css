@@ -18,6 +18,36 @@ p{
     font-weight: 600;
 
 }
+.carousel-item{
+    height: 50vh;
+}
+.banner1{
+    height: 100%;
+    width: 100%;
+    background-image: url(../src/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner2{
+    height: 100%;
+    width: 100%;
+    background-image: url(../src/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner3{
+    height: 100%;
+    width: 100%;
+    background-image: url(../src/chocolatess.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .btn{
     width: 100%;
     border: solid 2px #8B4513;

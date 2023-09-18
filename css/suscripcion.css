@@ -32,3 +32,6 @@
 .card:hover{
     transform: scale(1.08);
 }
+.form-control:checked{
+    box-shadow: none;
+}
