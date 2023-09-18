@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.anuncio{
+    background-color: #8B4513;
+
+}
+p{
+    margin-bottom: 0;
+}
+
+.card-img-top{
+    height: 286px;
+}
+.card-text{
+    font-weight: 600;
+
+}
+.btn{
+    width: 100%;
+    border: solid 2px #8B4513;
+    border-radius: 25px;
+
+}
+.btn:hover{
+    border:none;
+    background-color: #8B4513;
+    color: white;
+}
+.title{
+    color:   #D2691E;
+}
+
+footer{
+    background-color: #8B4513;
+    height: auto;
+    color: white;
+}
+.card{
+    border: none;
+    transition: all 300ms;
+}
+.card:hover{
+    transform: scale(1.08);
+}
