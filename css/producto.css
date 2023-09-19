@@ -38,3 +38,20 @@
     padding-left: 3em;
     padding-bottom: 3em;
 }
+.pagination{
+    --bs-pagination-color:black;
+}
+.products{
+    width: 50%;
+}
+.accordion{
+    --bs-accordion-active-bg:white;
+    --bs-accordion-btn-focus-box-shadow:white;
+    --bs-accordion-border-color:none;
+    border-radius: 0px;
+}
+
+.accordion-button{
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+}
